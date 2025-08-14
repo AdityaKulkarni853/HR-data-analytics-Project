@@ -36,8 +36,8 @@ Attrition Status, Education Level, Marital Status
 
 
  📷 Screenshots / Demos
- Dashboard Overview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+ Dashboard Overview[<img width="1414" height="785" alt="HR_Insights_Dashboard" src="https://github.com/user-attachments/assets/58038629-c6d2-489c-8730-d681660e1425" />]
+
 
 
 
