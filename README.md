@@ -16,6 +16,7 @@ DAX – for custom calculations and measures
 Power Query (M) – for data transformation  
 
 
+
  📁 Data Source
 The dashboard is built using a structured Excel dataset that includes:  
 Employee ID, Age, Gender  
@@ -26,21 +27,25 @@ Attrition Status, Education Level, Marital Status
 📎 File Format: `.xlsx`
 
 
+
 🌟 Features and Highlights
+
 🚻 Employee Demographics Breakdown (by age, gender, education, department)  
+
 📉 Attrition Analysis (by department, job role, marital status)  
+
 💸 Salary Distribution Insights (by department and job role)  
+
 🧠 Job Satisfaction & Performance Ratings Analysis  
+
 📈 KPI Cards showing total employees, attrition rate, average income, and more  
+
 🧩 Fully Interactive Filters and Slicers for deep exploration  
 
 
  📷 Screenshots / Demos
- Dashboard Overview[<img width="1414" height="785" alt="HR_Insights_Dashboard" src="https://github.com/user-attachments/assets/58038629-c6d2-489c-8730-d681660e1425" />]
+Dashboard Overview(<img width="1414" height="785" alt="HR_Insights_Dashboard" src="https://github.com/user-attachments/assets/7b0b95f4-9ff2-4bbb-b650-d8bbdf17193d" />
 
 
 
 
-
-
-📌 Note: This project is provided as a `.pbit` template file. Open it in Power BI Desktop and connect it to the provided Excel dataset to explore all features.
